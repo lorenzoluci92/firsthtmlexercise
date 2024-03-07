@@ -1,0 +1,47 @@
+/* Generali */
+
+body{
+    background: #faf1e3;
+}
+
+/*Menù Navigazione*/
+
+.logo{
+    font-weight: bold;
+    color: #666;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10% 30px 10%;
+}
+
+.nav-links ul{padding: 0;margin: 0;}
+.nav-links li{display: inline-block;}
+.nav-links a{padding: 15px 20px;display: block; color: #666; font-weight: bold; text-decoration: none;}
+
+.titolo h1{text-align: center; color: #666;}
+.titolo p{ text-align: center; color: #666; font-weight: bold;}
+
+.img{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.icon{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: #666;
+}
+
+.text{
+    color: #666
+    
+}
+
+.sezione5{
+    display: flex;
+}
